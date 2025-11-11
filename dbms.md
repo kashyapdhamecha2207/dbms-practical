@@ -1,0 +1,2 @@
+// DBMS QUESTION ANSWER (SET - B)
+
